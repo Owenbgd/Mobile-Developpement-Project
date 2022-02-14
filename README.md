@@ -4,7 +4,7 @@ README
 
 Voici notre état d'avancement du projet :
 
-Nous avons un debut de design de l'application avec deux pages. Une page principale contenant un dropdown menu pour choisir le type d'évenement à afficher, et un bouton representant un evenement qui revoie vers la deuxième page.
+Nous avons un début de design de l'application avec deux pages. Une page principale contenant un dropdown menu pour choisir le type d'évenement à afficher, et un bouton representant un evenement qui revoie vers la deuxième page.
 Il y a également une collection vue des évenements que l'on à pas réussi à remplir à temps.
 La seconde page comprend la description de l'evenement avec une image et des labels que l'on a pas réussi à remplir à temps.
 
@@ -14,6 +14,6 @@ Par contre, nous avons rencontré des problèmes pour afficher les événements 
 
 Membres de l'équipe :
 
-MARCE Chloé
-CHEN Olivier
+MARCE Chloé, 
+CHEN Olivier, 
 BURGAUD Owen
